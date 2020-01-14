@@ -241,6 +241,7 @@ ramips_setup_interfaces()
 	mikrotik,rbm33g|\
 	mzk-wdpr|\
 	rt-n14u|\
+	ry-1|\
 	skylab,skw92a|\
 	tplink,c20-v4|\
 	tplink,c50-v3|\

@@ -607,6 +607,13 @@ define Device/rt-ac51u
 endef
 TARGET_DEVICES += rt-ac51u
 
+define Device/ry-1
+  DTS := RY-1
+  DEVICE_TITLE := Lenovo RY-1
+  DEVICE_PACKAGES := kmod-usb2 kmod-usb-ohci kmod-usb-ledtrig-usbport
+endef
+TARGET_DEVICES += ry-1
+
 define Device/tiny-ac
   DTS := TINY-AC
   DEVICE_TITLE := Dovado Tiny AC

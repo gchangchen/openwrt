@@ -457,6 +457,9 @@ ramips_board_detect() {
 	*"RUT5XX")
 		name="rut5xx"
 		;;
+	*"RY-1")
+		name="ry-1"
+		;;
 	*"SamKnows Whitebox 8")
 		name="sk-wb8"
 		;;
